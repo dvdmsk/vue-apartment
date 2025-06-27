@@ -82,5 +82,6 @@ watch(
       v-model="value"
     />
   </div>
+  
   <p v-if="error !== ''" class="text-red-500 -mt-10 text-sm text-center">{{ error }}</p>
 </template>
