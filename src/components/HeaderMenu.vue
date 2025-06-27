@@ -5,7 +5,7 @@
         to="/"
         class="text-white hover:text-yellow-400 transition"
         active-class="text-yellow-400 font-bold"
-        exact
+        
       >
         Головна
       </RouterLink>

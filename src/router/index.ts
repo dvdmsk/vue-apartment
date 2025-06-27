@@ -4,7 +4,7 @@ import Property from '../pages/Property.vue'
 import Map from '../pages/Map.vue'
 
 const routes = [
-  { path: '/', component: Home },
+  { path: '/', component: Home, },
   { path: '/property/:id', component: Property },
   { path: '/map', component: Map },
 ]
